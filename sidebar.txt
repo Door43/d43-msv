@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[msv:home|Door43 (msv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-msv|d43-msv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-msv/archive/master.zip|d43-msv.zip]]
+
+**Recent Changes**
+{{changes>ns = msv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/msv|Ethnologue data]]
+
